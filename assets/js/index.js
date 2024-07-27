@@ -1,3 +1,5 @@
+import generateSEOSafeProductName from "./functions.js";
+
 const urlParams = new URLSearchParams(window.location.search);
 const sessionID = urlParams.get("itemID");
 
@@ -48,41 +50,43 @@ function mainUI(data) {
 }
 
 function createDivMostLiked(e) {
-
-    document.querySelector("[data-itemData='most_liked']").insertAdjacentHTML("beforeend",
-        `      
+    const itemHTML = `
         <li class="item">
 
-        <a href="blog.html?itemID=${e.itemID}&itemName=${generateSEOSafeProductName(e.itemName)}" hreflang="" class="card">
+            <a href="blog.html?itemID=${e.itemID}&itemName=${generateSEOSafeProductName(e.itemName)}" hreflang="" class="card">
 
-            <div class="card_header">
+                <div class="card_header">
 
-                <img src="${e.itemPic}" alt="${e.itemShortName}"></img>
+                    <img src="${e.itemPic}" alt="${e.itemShortName}"></img>
 
-                <div class="brand">
-                <b>${e.itemBrand}</b>
+                    <div class="brand">
+                        <b>${e.itemBrand}</b>
+                    </div>
+
                 </div>
 
-            </div>
-
-            <div class="card_body">
-
-                <div class="time"><span>${e.itemCategory}, ${e.itemSubCategory}</span> | <span>${e.itemTime}</span></div>
-
-            </div>
-
-            <div class="card_footer">
-
-                <div class="card_title">
-                ${e.itemName}
+                <div class="card_body">
+                    <div class="time"><span>${e.itemCategory}, ${e.itemSubCategory}</span> | <span>${e.itemTime}</span></div>
                 </div>
 
-            </div>
+                <div class="card_footer">
 
-        </a>
+                    <div class="card_title">
+                        ${e.itemName}
+                    </div>
 
-    </li>
-`)
+                </div>
+
+            </a>
+
+        </li>
+      `;
+
+    const mostLikedContainer = document.querySelector("[data-itemData='most_liked']");
+
+    if (mostLikedContainer) {
+        mostLikedContainer.insertAdjacentHTML("beforeend", itemHTML);
+    }
 }
 
 function createDivElectronics(e) {
@@ -121,23 +125,4 @@ function createDivElectronics(e) {
 
     </li>
 `)
-}
-
-function generateSEOSafeProductName(productName) {
-    // Convert to lowercase
-    let seoSafeName = productName.toLowerCase();
-
-    // Remove special characters using regular expression
-    seoSafeName = seoSafeName.replace(/[^\w\s-]/g, '');
-
-    // Replace spaces with dashes
-    seoSafeName = seoSafeName.replace(/\s+/g, '-');
-
-    // Trim spaces
-    seoSafeName = seoSafeName.trim();
-
-    // Optionally, shorten length
-    seoSafeName = seoSafeName.substring(0, 256); // Limit to 50 characters
-
-    return seoSafeName;
 }
