@@ -1,0 +1,172 @@
+@import url("../../../../assets/css/icons.css");
+@import "../../../../assets/css/mixin.scss";
+
+.recipes {
+    .recipe {
+
+        a {
+            width: 100%;
+
+            .img {
+                @include Dflex(center);
+
+                img {
+                    @include bckimgCenter();
+                    // max-height: 450px;
+                    max-width: 550px;
+                    max-height: 450px;
+                }
+            }
+
+            .title {
+                background-color: var(--low-opacity);
+                padding: var(--md-p);
+
+                h1 {
+                    margin-bottom: var(--md-p);
+                }
+
+                p {
+                    line-height: 1.5;
+                }
+            }
+        }
+    }
+
+    .blog {
+
+        &_header {
+            font-size: var(--font-size-xlarge);
+            margin-bottom: var(--md-p);
+        }
+
+        &_container {
+            display: flex;
+            gap: var(--md-p);
+
+            .blog_content {
+                width: 100%;
+
+                .specs {
+                    display: flex;
+                    flex-direction: column;
+                    gap: var(--sm-p);
+
+
+                    .item {
+                        display: flex;
+                        gap: var(--md-p);
+                        padding: var(--sm-p);
+
+                        &:nth-child(even) {
+                            background-color: var(--low-opacity);
+                        }
+
+                        .title {
+                            width: 100px;
+                        }
+
+                        .body {
+                            display: flex;
+                            flex-direction: column;
+                            gap: var(--sm-p);
+                        }
+                    }
+                }
+            }
+
+            .sidebar {
+                width: 100%;
+                border: 1px solid var(--border-color);
+                border-radius: var(--border-radius-light);
+                padding: var(--md-p);
+                display: flex;
+                flex-direction: column;
+                gap: var(--md-p);
+
+                &_wrapper {
+                    padding: var(--md-p);
+                    border: 1px solid var(--border-color);
+                    border-radius: var(--border-radius-light);
+
+                    &_header {
+                        h3 {
+                            margin-bottom: var(--md-p)
+                        }
+                    }
+
+                    &_body {
+                        display: flex;
+                        flex-direction: column;
+                        gap: var(--md-p);
+                    }
+
+                    &_ad {
+                        height: 600px
+                    }
+                }
+            }
+        }
+
+    }
+
+    @media only screen and (max-width: 768px) {
+        & {
+            .recipe {
+                a {
+
+                    .title {
+                        h1 {
+                            font-size: var(--font-size-xlarge);
+                        }
+                    }
+                }
+            }
+
+            .blog {
+                padding: var(--md-p);
+
+                &_container {
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        & {
+
+            .blog {
+                padding: var(--md-p) 0;
+
+                &_container {
+                    display: flex;
+
+                    .sidebar {
+                        max-width: 300px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.blog_cta {
+    @include Dflex(center);
+    flex-direction: column;
+    padding: calc(var(--md-p) * 3) var(--md-p);
+    background-color: var(--low-opacity);
+
+    h4 {
+        font-size: var(--font-size-xlarge);
+    }
+
+    p {
+        margin: calc(var(--md-p) * 2) var(--md-p);
+    }
+
+    button {
+        background-color: var(--accent-color);
+    }
+}

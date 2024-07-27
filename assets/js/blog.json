@@ -1,0 +1,1052 @@
+[
+    {
+        "itemID": "Hywg3g4Y",
+        "itemBrand": "Apple",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip: 13.6-inch Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID  Midnight",
+        "itemShortName": "Apple 2024 MacBook Air 13-inch M3",
+        "itemPic": "./assets/imgs/Hywg3g4Y.png",
+        "itemHref": "https://amzn.to/4be1Wx0",
+        "itemTime": "29 Apr 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Apple"
+            },
+            "model": {
+                "name": "Model",
+                "items": "MacBook Air"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Midnight",
+                    "Silver",
+                    "Space Grey",
+                    "Starlight"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "13.6inch",
+                    "Liquid Retina display with True Tone"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "M3",
+                    "8-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "8GB Unified Memory"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "256GB",
+                    "512GB",
+                    "SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "integrated",
+                    "10-Core GPU"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "MacOS"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "Support for up to two external displays (with laptop lid closed)",
+                    "35W Dual USB-C Port Power Adapter"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "up to 18 hours"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "Fingerprint Reader",
+                    "1080p FaceTime HD camera, MagSafe 3 charging port",
+                    "Support for up to two external displays (with laptop lid closed)",
+                    "Magic Keyboard with Touch ID",
+                    "Force Touch trackpad",
+                    "35W Dual USB-C Port Power Adapter"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "0Zu3AI7B",
+        "itemBrand": "Apple",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Apple 2020 MacBook Air Laptop M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID; Gold",
+        "itemShortName": "Apple 2020 MacBook Air 13-inch M1",
+        "itemPic": "./assets/imgs/0Zu3AI7B.png",
+        "itemHref": "https://amzn.to/4bfKgAZ",
+        "itemTime": "29 Apr 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Apple"
+            },
+            "model": {
+                "name": "Model",
+                "items": "MacBook Air"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Gold",
+                    "Silver",
+                    "Space Grey"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "13.3inch",
+                    "Retina display",
+                    "2560x1600"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "M1",
+                    "8-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "8GB Unified Memory"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "256GB"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "integrated",
+                    "7-Core GPU"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "MacOS"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "30W Dual USB-C Port Power Adapter"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "up to 18 hours"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.8 pounds (1.29 kg)"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "720p FaceTime HD camera",
+                    "Fingerprint Reader"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "9Selsp6B",
+        "itemBrand": "Apple",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Apple 2022 MacBook Air laptop with M2 chip: 13.6-inch Liquid Retina display, 8GB RAM, 256GB SSD storage, backlit keyboard, 1080p FaceTime HD camera. Works with iPhone and iPad; Space Grey",
+        "itemShortName": "Apple 2022 MacBook Air 13-inch M2",
+        "itemPic": "./assets/imgs/9Selsp6B.png",
+        "itemHref": "https://amzn.to/4bfEoYp",
+        "itemTime": "29 Apr 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Apple"
+            },
+            "model": {
+                "name": "Model",
+                "items": "MacBook Air"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Gold",
+                    "Silver",
+                    "Space Grey",
+                    "Starlight"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "13.6inch",
+                    "Liquid Retina display with True Tone"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "M2",
+                    "8-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "8GB Unified Memory"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "256GB"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "integrated",
+                    "8-Core GPU"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "MacOS"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "up to 18 hours"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.7 pounds (1.24 kg)"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "Fingerprint Reader",
+                    "1080p FaceTime HD camera, MagSafe 3 charging port",
+                    "Support for one external display",
+                    "Magic Keyboard with Touch ID",
+                    "Force Touch trackpad",
+                    "30W Dual USB-C Port Power Adapter"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "wYtyp59B",
+        "itemBrand": "Apple",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Apple 2021 MacBook Pro (14-inch, M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Grey",
+        "itemShortName": "Apple 2021 MacBook Pro 14-inch M1 Pro",
+        "itemPic": "./assets/imgs/wYtyp59B.png",
+        "itemHref": "https://amzn.to/4b39H9d",
+        "itemTime": "29 Apr 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Apple"
+            },
+            "model": {
+                "name": "Model",
+                "items": "MacBook Pro"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Silver",
+                    "Space Grey"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "14inch",
+                    "Liquid Retina"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "M1",
+                    "10-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "512GB",
+                    "1TB"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "integrated"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "MacOS"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "Two Thunderbolt / USB 4 ports",
+                    "Headphone jack"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "up to 17 hours"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "Fingerprint Reader",
+                    "1080p FaceTime HD camera, MagSafe 3 charging port",
+                    "Support for up to two external displays (with laptop lid closed)",
+                    "Magic Keyboard with Touch ID",
+                    "Force Touch trackpad",
+                    "35W Dual USB-C Port Power Adapter"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "RN8TF9ZL",
+        "itemBrand": "MSI",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "MSI Cyborg 15 Inch FHD Gaming Laptop - (Intel Core i7-12650H, Nvidia GeForce RTX4060, 16GB RAM, 512GB SSD, Windows 11 Home) - Translucent Black",
+        "itemShortName": "MSI Cyborg 15-inch  i7-12th Gen, RTX 40 Series",
+        "itemPic": "./assets/imgs/RN8TF9ZL.png",
+        "itemHref": "https://amzn.to/44ptJIl",
+        "itemTime": "01 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "MSI"
+            },
+            "model": {
+                "name": "Model",
+                "items": "Cyborg 15 A12VF-025UK"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Translucent Black"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches",
+                    "1920 x 1080 pixels",
+                    "144Hz IPS-Level display"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "Intel Core i7-12650H",
+                    "14-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB",
+                    "DDR5",
+                    "Max 64GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "512GB",
+                    "NVMe PCIe Gen4x4 SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 4060",
+                    "GDDR6",
+                    "8GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "1x USB 3.2 Gen1 Type-C / DP",
+                    "2x USB 3.2 Gen1 Type-A",
+                    "1x HDMI (4K @ 60Hz)",
+                    "1x RJ45",
+                    "1x Audio combo jack",
+                    "1x DC-in"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "1.98kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "NEXT-GEN COOLING FOR NEXT-GEN GAMING"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "JmfSFdfJ",
+        "itemBrand": "MSI",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "MSI Katana 15 Gaming Laptop (B13VGK-1095UK), Intel Core i9-13900H, 15.6-inch FHD 144Hz Panel, NVIDIA GeForce RTX 4070, 8GB*2 DDR5, 1TB - NVMe SSD, Windows 11 - Black",
+        "itemShortName": "MSI Katana 15-inch  i9-13th Gen, RTX 40 Series",
+        "itemPic": "./assets/imgs/JmfSFdfJ.png",
+        "itemHref": "https://amzn.to/4a00o8K",
+        "itemTime": "01 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "MSI"
+            },
+            "model": {
+                "name": "Model",
+                "items": "Katana 15 B13VGK-1095UK"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Black"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches",
+                    "1920 x 1080 pixels",
+                    "144Hz IPS-Level display"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "Intel Core i5-13900H",
+                    "10-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB",
+                    "DDR5",
+                    "Max 64GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "1TB",
+                    "NVMe SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 4070",
+                    "GDDR6",
+                    "8GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "1x USB 3.2 Gen1 Type-C / DP",
+                    "2x USB 3.2 Gen1 Type-A",
+                    "1x USB 2.0 Type-A",
+                    "1x HDMI (8K @ 60Hz / 4K @ 120Hz)",
+                    "1x RJ45",
+                    "1x Audio combo jack",
+                    "1x DC-in"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.2kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "NEXT-GEN COOLING FOR NEXT-GEN GAMING"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "k8ySnj5x",
+        "itemBrand": "ASUS",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "ASUS TUF Gaming FX507ZC4 15.6-inch Full HD 144Hz Gaming Laptop (Intel i5-12500H, NVIDIA GeForce RTX 3050, 8GB RAM, 512GB PCIe SSD, Windows 11)",
+        "itemShortName": "ASUS TUF Gaming 15-inch i5-12th Gen, RTX 30 Series",
+        "itemPic": "./assets/imgs/k8ySnj5x.png",
+        "itemHref": "https://amzn.to/4dfiVRc",
+        "itemTime": "02 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "ASUS"
+            },
+            "model": {
+                "name": "Model",
+                "items": "ASUS TUF Gaming FX507ZC4-HN081W"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Gray"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches",
+                    "1920 x 1080 pixels"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "Intel Core i5-12500H",
+                    "12-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "8GB",
+                    "DDR4",
+                    "Max 12GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "512GB",
+                    "PCIe SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 3050",
+                    "GDDR6",
+                    "4GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    ""
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "90 Watt Hours"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.2kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    ""
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "tpfhMT6x",
+        "itemBrand": "ASUS",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "ASUS TUF Gaming FA507NV 15.6-inch Full HD 144Hz Gaming Laptop (AMD Ryzen 5-7535HS, NVIDIA GeForce RTX 4060 (140 TGP), 16GB RAM, 512GB PCIe SSD, Windows 11)",
+        "itemShortName": "ASUS TUF Gaming 15-inch AMD R5-7, RTX 40 Series",
+        "itemPic": "./assets/imgs/tpfhMT6x.png",
+        "itemHref": "https://amzn.to/4bDkY03",
+        "itemTime": "02 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "ASUS"
+            },
+            "model": {
+                "name": "Model",
+                "items": "ASUS TUF Gaming FA507NV-LP025W"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Gray"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches",
+                    "1920 x 1080 pixels"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "Ryzen 5",
+                    "6-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB",
+                    "DDR4",
+                    "Max 16GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "512GB",
+                    "PCIe SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 4060",
+                    "GDDR6",
+                    "8GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    ""
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.2kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    ""
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "ICAVV4Kg",
+        "itemBrand": "Gigabyte",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Gigabyte G6X 9KG 2024 Gaming Laptop- 16-inch, 165Hz FHD, Intel Core i7-13650HX, RTX 4060 GPU, 16GB DDR5 4800MHz, 1x 1TB Gen4 SDD, Windows 11 Home, 2 Year Warranty, Dolby Atmos, G6X 9KG-43UK854SH",
+        "itemShortName": "Gigabyte Gaming Laptop 16-inch AMD i7-13th Gen, RTX 40 Series",
+        "itemPic": "./assets/imgs/ICAVV4Kg.png",
+        "itemHref": "https://amzn.to/4dlxwuu",
+        "itemTime": "02 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Gigabyte"
+            },
+            "model": {
+                "name": "Model",
+                "items": "Gigabyte G6X 9KG-43UK854SH"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Gray"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches",
+                    "1920 x 1200 pixels",
+                    "165Hz FHD Display"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "i7-13650HX",
+                    "14-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB",
+                    "DDR5",
+                    "Max 32GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "1TB",
+                    "Gen4 SDD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 4060",
+                    "GDDR6",
+                    "8GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "1x USB 3.2 Gen1 Type-A",
+                    "1x USB 3.2 Gen2 Type-A",
+                    "2x USB 3.2 Gen2 Type-C",
+                    "1x Audio combo jack",
+                    "1x RJ45",
+                    "1x DC-in"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "73Wh"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "2.5kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "Backlit Keyboard"
+                ]
+            }
+        }
+    },
+    {
+        "itemID": "zAcA4f2o",
+        "itemBrand": "Acer",
+        "itemCategory": "Electronics",
+        "itemSubCategory": "Laptop",
+        "itemName": "Acer Nitro 5 AN515-58 Gaming Laptop - Intel Core i5-12450H, 16GB, 512GB SSD, NVIDIA GeForce RTX 3050 4G, 15.6-inch FHD IPS 144Hz, Windows 11 , Black",
+        "itemShortName": "Acer Nitro 5 15-inch i5-12th Gen, RTX 30 Series",
+        "itemPic": "./assets/imgs/zAcA4f2o.png",
+        "itemHref": "https://amzn.to/3K4DLpj",
+        "itemTime": "02 May 2024",
+        "specs": {
+            "brand": {
+                "name": "Brand",
+                "items": "Acer"
+            },
+            "model": {
+                "name": "Model",
+                "items": "Acer NH.QFJEK.005"
+            },
+            "colours": {
+                "name": "Colours",
+                "items": [
+                    "Black"
+                ]
+            },
+            "screen": {
+                "name": "Screen",
+                "items": [
+                    "15.6-inches IPS display",
+                    "1920 x 1080 pixels",
+                    "144Hz FHD Display"
+                ]
+            },
+            "processor": {
+                "name": "Processor",
+                "items": [
+                    "i5-12450H",
+                    "8-cores"
+                ]
+            },
+            "ram": {
+                "name": "Memory (RAM)",
+                "items": [
+                    "16GB",
+                    "DDR5",
+                    "Max 32GB"
+                ]
+            },
+            "storage": {
+                "name": "Storage",
+                "items": [
+                    "512GB",
+                    "PCIe SSD"
+                ]
+            },
+            "graphics": {
+                "name": "Graphics",
+                "items": [
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 3050",
+                    "GDDR6",
+                    "4GB"
+                ]
+            },
+            "os": {
+                "name": "Operating System (OS)",
+                "items": [
+                    "Windows 11 Home"
+                ]
+            },
+            "connectivity": {
+                "name": "Connectivity",
+                "items": [
+                    "N/A"
+                ]
+            },
+            "ports": {
+                "name": "Ports",
+                "items": [
+                    "1x USB 3.2 Gen1 Type-A",
+                    "1x USB 3.2 Gen2 Type-A",
+                    "2x USB 3.2 Gen2 Type-C",
+                    "1x Audio combo jack",
+                    "1x RJ45",
+                    "1x DC-in"
+                ]
+            },
+            "battery": {
+                "name": "Battery",
+                "items": [
+                    "56Wh"
+                ]
+            },
+            "weight": {
+                "name": "Weight",
+                "items": [
+                    "4.2kg"
+                ]
+            },
+            "features": {
+                "name": "Additional Features",
+                "items": [
+                    "Backlit Keyboard"
+                ]
+            }
+        }
+    }
+]
